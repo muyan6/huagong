@@ -12,8 +12,8 @@
 // @run-at       document-end
 // @license      MIT
 // @require https://cdn.bootcss.com/jquery/1.10.2/jquery.min.js
-// @downloadURL https://update.greasyfork.org/scripts/452433/scnu%E5%8D%8E%E5%8D%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E7%BD%91%E8%AF%BE%E8%84%9A%E6%9C%AC.user.js
-// @updateURL https://update.greasyfork.org/scripts/452433/scnu%E5%8D%8E%E5%8D%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E7%BD%91%E8%AF%BE%E8%84%9A%E6%9C%AC.meta.js
+// @downloadURL https://github.com/muyan6/huagong/blob/main/-%E6%96%B0%E5%BB%BA%E7%94%A8%E6%88%B7%E8%84%9A%E6%9C%AC-.user.js
+// @updateURL https://github.com/muyan6/huagong/blob/main/-%E6%96%B0%E5%BB%BA%E7%94%A8%E6%88%B7%E8%84%9A%E6%9C%AC-.user.js
 // ==/UserScript==
 
 (function () {
